@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm a passionate programmer with interests in vari
 
 ## About Me
 
-- 🌱 I’m currently learning at Universitas Raharja, and I'm also honing my skills at Skilvul.
+- 🌱 I’m currently learning at Universitas Raharja, and I'm also honing my skills at Skilvul
+- ✨ I'am part of YCAB Foundation
 - 💞️ I’m looking to collaborate on exciting projects.
 
 ## Technologies I Work With
